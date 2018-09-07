@@ -6,6 +6,7 @@ using System.Web;
 
 namespace Gighub.Models
 {
+    //Beter Enum dan is het automatisch een dropdown
     public class Genre
     {
         public byte Id { get; set; }
